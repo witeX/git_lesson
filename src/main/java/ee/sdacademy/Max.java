@@ -4,14 +4,13 @@ public class Max {
 
     public static void main(String[] args) {
         int a = 2;
-        int b = 4;
-        int c = 3;
+        int b = 3;
 
-        int max = a;
-        if (b > max) {
+        int max;
+        if (a > b) {
+            max = a;
+        } else {
             max = b;
-        } else if (c > max) {
-            max = c;
         }
         System.out.println("Max value is: " + max);
 
