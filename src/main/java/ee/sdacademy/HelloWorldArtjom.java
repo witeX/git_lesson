@@ -8,6 +8,8 @@ public class HelloWorldArtjom {
         String s = "Artjom";
         String b = "Prozorov";
 
-        System.out.println (s+" "+b);
+        System.out.println (s + " " + b);
     }
+
 }
+
