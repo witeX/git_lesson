@@ -2,7 +2,5 @@ package ee.sdacademy;
 
 public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Hello world for first git issue.");
-    }
+    public static void main(String[] args) { System.out.println("Hello world for first git issue."); }
 }
