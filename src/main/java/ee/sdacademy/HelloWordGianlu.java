@@ -1,6 +1,6 @@
 package ee.sdacademy;
 
-public class HelloWorldGianluca {
+public class HelloWordGianlu {
 
     public static void main(String[] args) {
 
