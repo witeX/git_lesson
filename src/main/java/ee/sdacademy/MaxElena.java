@@ -12,6 +12,7 @@ public class MaxElena {
         } else {
             max = b;
         }
+
         System.out.println("Max value is: " + max);
 
     }
