@@ -84,5 +84,7 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-/out/
-/src/main/java/ee/sdacademy/*Ignored.java
+
+personal.settings
+**/personal.settings
+src/ignored/
