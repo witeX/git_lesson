@@ -85,6 +85,9 @@ fabric.properties
 .idea/httpRequests
 
 
-personal.settings
-**/personal.settings
+
+*.settings
+**/*.settings
 src/ignored/
+
+**/out
